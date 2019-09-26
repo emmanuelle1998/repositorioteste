@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Emmanuelle Roberta de Oliveira
+=======
+<<<<<<< HEAD
+Emmanuelle,Anderson Martins 
+=======
+Emmanuelle, Eduarda Roberta
+>>>>>>> 18b314526bf1ea9d48b0fb1544db3aef9f354261
+>>>>>>> 2ce7d8832e3e202899b52649edadc83e72f67742
